@@ -4,6 +4,7 @@ La aplicacion fue diseñada en android studio, haciendo uso de firebase para el 
 
 <img src="Poster_UN.jpg" style="width:300px;">
 
-## Video explicativo del funcionamiento de la aplicacion
+## Video del funcionamiento de la aplicacion
 
-![video](/Ruta.mov)
+https://github.com/dimaldonadom/Ruta-UN/assets/153869281/e2dab983-c289-4c92-848e-03e77ceee603
+
