@@ -6,3 +6,4 @@ La aplicacion fue diseñada en android studio, haciendo uso de firebase para el 
 
 ## Video explicativo del funcionamiento de la aplicacion
 
+![video](/Ruta.mov)
